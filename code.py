@@ -40,5 +40,3 @@ class Node:
         if(n.excite>0.5):
             return True
         return False
-
-Message @RAMANUJAN2710
